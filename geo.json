@@ -1,0 +1,126 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "area1",
+        "description": "area 1"
+      },
+      "geometry": {
+        "coordinates": [-87.637596, 41.940403],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "area2",
+        "description": "area 2"
+      },
+      "geometry": {
+        "coordinates": [-87.603735, 41.829985],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "area3",
+        "description": "area 3"
+      },
+      "geometry": {
+        "coordinates": [-87.622554, 41.982534],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "area4",
+        "description": "area 4"
+      },
+      "geometry": {
+        "coordinates": [-87.619185, 41.876367],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "area5",
+        "description": "area 5"
+      },
+      "geometry": {
+        "coordinates": [-87.70199, 41.905423],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "area6",
+        "description": "area 6"
+      },
+      "geometry": {
+        "coordinates": [-87.699329, 41.860092],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "area7",
+        "description": "area 7"
+      },
+      "geometry": {
+        "coordinates": [-87.0323, 41.9131],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "area7",
+        "description": "area 7"
+      },
+      "geometry": {
+        "coordinates": [-87.330221, 41.790515],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "area7",
+        "description": "area 7"
+      },
+      "geometry": {
+        "coordinates": [-86.900221, 41.715515],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "area8",
+        "description": "area 8"
+      },
+      "geometry": {
+        "coordinates": [-86.830221, 41.515515],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "area8",
+        "description": "area 8"
+      },
+      "geometry": {
+        "coordinates": [-86.930221, 40.635515],
+        "type": "Point"
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
